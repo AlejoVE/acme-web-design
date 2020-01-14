@@ -11,6 +11,11 @@ body{
     margin:auto;
     overflow:hidden;
   }
+
+  ul {
+      margin: 0px;
+      padding: 0px;
+  }
   
   /* Header **/
 header{
